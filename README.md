@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m Andrew McClenaghan
+- 🌱 I take notes here [https://hanselman.com/blog](https://notes.andrewmac.cloud/)
+- 🤔 I’m on Twitter https://twitter.com/andymc4182
+- 🤔 I’m on Mastodon <a rel="me" href="https://hachyderm.io/@andymac4182">https://hachyderm.io/@andymac4182</a>
